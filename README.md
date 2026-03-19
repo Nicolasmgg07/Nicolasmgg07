@@ -13,11 +13,11 @@ Sou desenvolvedor focado na criação de **sistemas reais e funcionais**, com ex
 
 Tenho forte interesse em **lógica de programação, banco de dados e automação**, buscando sempre desenvolver soluções que **resolvem problemas reais de empresas**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (INFNET)** e já concluí o **Técnico em Informática**, onde desenvolvi projetos completos voltados para o ambiente corporativo.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e já concluí o **Técnico em Informática**, onde desenvolvi projetos completos voltados para o ambiente corporativo.
 
 💡 Interesses:
 - Desenvolvimento Full Stack  
-- Backend com C# e banco de dados  
+- Full Stack com C# e banco de dados  
 - Estruturação de sistemas e arquitetura  
 - Segurança da informação  
 - Código limpo e boas práticas  
