@@ -17,7 +17,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e já concluí o **T
 
 💡 Interesses:
 - Desenvolvimento Full Stack  
-- Full Stack com C# e banco de dados  
+- Backend com C# e banco de dados  
 - Estruturação de sistemas e arquitetura  
 - Segurança da informação  
 - Código limpo e boas práticas  
@@ -48,34 +48,38 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e já concluí o **T
 
 </div>
 
-### 🧾 Sistema de Vendas & Gestão Empresarial
-Sistema completo desenvolvido para simular e atender necessidades reais de empresas.
+### 🧾 Sistema de Vendas e Gerenciamento
+Sistema completo desenvolvido para **otimizar o dia a dia de negócios**, centralizando operações essenciais em uma única plataforma.
 
 🔹 Funcionalidades:
 - Controle de estoque em tempo real  
-- Registro de vendas com histórico  
-- Relatórios financeiros mensais automáticos  
-- Dashboard com análise de dados  
-- Integração completa com banco de dados  
-
-🛠 Tecnologias: **C#, MySQL**  
-
-💡 Destaque: Projeto focado em **automação de processos empresariais**, reduzindo trabalho manual e organizando dados estratégicos.
-
----
-
-### 📊 Sistema de Relatórios Financeiros
-Sistema responsável por consolidar dados financeiros e gerar relatórios mensais automáticos.
-
-🔹 Funcionalidades:
-- Cálculo de lucro, entradas e saídas  
-- Reset automático por mês  
-- Organização de dados financeiros  
-- Geração de relatórios claros para análise  
+- Registro e histórico de vendas  
+- Gestão financeira integrada  
+- Cadastro de produtos  
+- Relatórios automáticos  
+- Leitura de código de barras  
 
 🛠 Tecnologias: **C#, MySQL**
 
-💡 Destaque: Foco em **controle financeiro e tomada de decisão baseada em dados**.
+💡 Destaque: Solução focada em **automação, organização e eficiência**, proporcionando mais controle e precisão para empresas.
+
+---
+
+### 🍽 Sistema de Cardápio Digital com Pedidos em Tempo Real
+Sistema desenvolvido para **agilizar o atendimento e melhorar a gestão de estabelecimentos**, automatizando o fluxo de pedidos.
+
+🔹 Funcionalidades:
+- Envio automático de pedidos para a cozinha  
+- Área administrativa completa  
+- Dashboard financeiro  
+- Controle de produtos  
+- Acompanhamento de pedidos em tempo real  
+- Módulos para garçom e administração  
+- Layout moderno e responsivo  
+
+🛠 Tecnologias: **HTML, CSS, PHP, MySQL**
+
+💡 Destaque: Reduz erros operacionais e melhora a produtividade, sendo ideal para **restaurantes, cafeterias e lanchonetes**.
 
 ---
 
