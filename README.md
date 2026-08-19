@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>👋 Olá, eu sou o Nicolas Miguel!</h1>
-  <h3>Desenvolvedor C# • Estudante de Análise e Desenvolvimento de Sistemas • Focado em Sistemas Reais</h3>
+  <h3>Desenvolvedor C# • Estudante de Engenharia de Software • Focado em Sistemas Reais</h3>
 
   <br>
 
@@ -13,7 +13,7 @@ Sou desenvolvedor focado na criação de **sistemas reais e funcionais**, com ex
 
 Tenho forte interesse em **lógica de programação, banco de dados e automação**, buscando sempre desenvolver soluções que **resolvem problemas reais de empresas**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e já concluí o **Técnico em Informática**, onde desenvolvi projetos completos voltados para o ambiente corporativo.
+Atualmente curso **Engenharia de Software** e já concluí o **Técnico em Informática**, onde desenvolvi projetos completos voltados para o ambiente corporativo.
 
 💡 Interesses:
 - Desenvolvimento Full Stack  
